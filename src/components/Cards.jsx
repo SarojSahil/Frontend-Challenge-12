@@ -1,5 +1,5 @@
-import Image1 from "../assets/images/photo_1@2x.png";
-import Image2 from "../assets/images/photo_2@2x.png";
+import Image2 from "../assets/images/photo_1@2x.png";
+import Image1 from "../assets/images/photo_2@2x.png";
 import Image3 from "../assets/images/photo_3@2x.png";
 
 const Cards = () => {
@@ -12,21 +12,21 @@ const Cards = () => {
       title: "Collect Feedback at Multiple Touchpoints",
       description: "Provide a comprehensive understanding of the customer experience.",
       image: Image1,
-      imageAlt: "3 men having conversation"
+      imageAlt: "4 men having conversation"
     },
     {
       id: 102,
       icon: "🥅",
-      iconBgColor: "bg-salmon",
+      iconBgColor: "bg-sky-blue",
       title: "Ask Targeted and Specific Questions",
       description: "Avoid vague or open-ended questions that may not yield actionable insights.",
       image: Image2,
-      imageAlt: "4 men having conversation"
+      imageAlt: "3 men having conversation"
     },
     {
       id: 103,
       icon: "💬",
-      iconBgColor: "bg-sky-blue",
+      iconBgColor: "bg-salmon",
       title: "Prioritize and Respond to Feedback",
       description: "Communicate the changes or improvements you've made in response to their feedback.",
       image: Image3,
